@@ -1,0 +1,2 @@
+# POLYCYSTIC-OVARY-SYNDROME-PCOS-DIAGNOSIS-USING-MACHINE-LEARNING
+Polycystic Ovary Syndrome (PCOS) is a hormonal condition that affects many women of reproductive age. Women with PCOS may have irregular or prolonged menstrual cycles, as well as high levels of the male hormone androgen. The ovaries may produce a large number of tiny collections of fluid (follicles) and fail to release eggs on a regular basis.
